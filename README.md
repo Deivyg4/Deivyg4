@@ -3,9 +3,17 @@
 ### Beinvenido a mi perfil de Github###
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=red&lines=>/Hello+world.py;Error:+No+such+file+or+directory;>./hello_world.py;Welcome+to+my+GitHub+profile;My+name+is+Deivy+Gonzalez;I'm+a+software+developer;process+finished+with+exit+code+0;..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=i'm+DeivyG" alt="Typing SVG"/>
 </p>
 
+# Stats
+[![Deivyg4 stats](https://github-readme-stats.vercel.app/api?username=Deivyg4&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+# Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deivyg&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 
 ____
 
 *cursive*
@@ -46,4 +54,4 @@ __tEXTO EN NEGRITA__
 
 -[ ]
 
--[x] 
+-[x]  -->
