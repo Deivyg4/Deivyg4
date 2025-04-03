@@ -3,7 +3,7 @@
 ### Beinvenido a mi perfil de Github###
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=i'm+DeivyG" alt="Typing SVG"/>
+<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7742C&width=435&lines=i'm+DeivyG;i+'m+studing+of+Computer+Engineering;Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG"/>
 </p>
 
 # Stats
