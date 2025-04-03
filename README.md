@@ -2,9 +2,7 @@
 
 ### Beinvenido a mi perfil de Github###
 
-<p align="center">
-<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7742C&width=435&lines=i'm+DeivyG;i+'m+studing+of+Computer+Engineering;Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG"/>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Underdog&pause=1000&color=F7742C&width=435&lines=i'm+DeivyG;i+'m+studing+of+Computer+Engineering;Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG" /></a>
 
 # Stats
 [![Deivyg4 stats](https://github-readme-stats.vercel.app/api?username=Deivyg4&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
