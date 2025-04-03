@@ -2,6 +2,10 @@
 
 ### Beinvenido a mi perfil de Github###
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=red&lines=>/Hello+world.py;Error:+No+such+file+or+directory;>./hello_world.py;Welcome+to+my+GitHub+profile;My+name+is+Deivy+Gonzalez;I'm+a+software+developer;process+finished+with+exit+code+0;..." />
+</p>
+
 ____
 
 *cursive*
@@ -14,13 +18,17 @@ ____
 
 _CURSIVA_
 
+_TEXTO DE CURSIVA_
+
 __NEGRITA__
+
+__tEXTO EN NEGRITA__
 
 ***
 
 - Lista desodernada
-- kshdak
-- sksjds
+- Primer elemento
+- Segundo elemento
 
 * lista desordenada 
 * lslslsl
