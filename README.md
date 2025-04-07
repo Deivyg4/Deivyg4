@@ -2,11 +2,10 @@
 <h2>I have experience in equipment maintenance, infrastructure, and sales in the technology sector. As a programmer, I'm focused on learning and improving as a Full Stack developer, and I'm interested in developing more advanced and complex artificial intelligence tools, like creating my own LLM.</h2>
 <p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,anaconda,flask,git,github,java,jquery,linux,postgres,py,vscode,wordpress)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,anaconda,flask,git,github,java,jquery,linux,postgres,py,vscode,wordpress" />
   </a>
 </p>
 
