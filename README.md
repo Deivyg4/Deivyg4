@@ -1,4 +1,5 @@
-<h1>Hi 👋, I'm Deivy Gonzalez, Full Stack Developer & AI Enthusiast I have experience in equipment maintenance, infrastructure, and sales in the technology sector. As a programmer, I'm focused on learning and improving as a Full Stack developer, and I'm interested in developing more advanced and complex artificial intelligence tools, like creating my own LLM.</h1>
+<h1>Hi 👋, I'm Deivy Gonzalez, Full Stack Developer & AI Enthusiast </h1> 
+<h2>I have experience in equipment maintenance, infrastructure, and sales in the technology sector. As a programmer, I'm focused on learning and improving as a Full Stack developer, and I'm interested in developing more advanced and complex artificial intelligence tools, like creating my own LLM.</h2>
 <p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
