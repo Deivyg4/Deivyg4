@@ -9,7 +9,7 @@
 
 # Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deivyg4&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deivyg4)](https://github.com/Deivyg4/github-readme-stats)
 # Skills
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
