@@ -3,11 +3,13 @@
 <p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
 
+<!---
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,anaconda,flask,php,git,github,java,jquery,linux,postgres,py,vscode,wordpress" />
   </a>
 </p>
+-->
 
 <p></p>
 
@@ -53,7 +55,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" />
-    <img width="30px" src="https://www.kalilinux.org/images/kali-logo.svg" width="30px" alt="Kali Linux" />
   </kbd>
   <kbd style="background-color: #f0f0f0; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">
     <kbd style="background-color: transparent; border: none; padding: 0;">Otros</kbd>
@@ -100,7 +101,7 @@
 <p></p>
 
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=Deivyg4k&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=Deivyg4k&style=plastic&color=orange" alt = "Profile Views"/>
 </p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -108,6 +109,3 @@
 
 <p></p>
 
-![](https://komarev.com/ghpvc/?username=Deivyg4&color=orange)
-
-<p></p>
