@@ -11,6 +11,59 @@
 
 <p></p>
 
+<p style="display: inline-block; align="center">
+  <kbd style="background-color: #f0f0f0; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">
+    <kbd style="background-color: transparent; border: none; padding: 0;">Desarrollo Web</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" />
+  </kbd>
+  <kbd style="background-color: #f0f0f0; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">
+    <kbd style="background-color: transparent; border: none; padding: 0;">Backend Frameworks</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" />
+  </kbd>
+  <kbd style="background-color: #f0f0f0; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">
+    <kbd style="background-color: transparent; border: none; padding: 0;">Bases de Datos</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
+  </kbd>
+  <kbd style="background-color: #f0f0f0; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">
+    <kbd style="background-color: transparent; border: none; padding: 0;">Herramientas de Desarrollo</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" />
+  </kbd>
+  <kbd style="background-color: #f0f0f0; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">
+    <kbd style="background-color: transparent; border: none; padding: 0;">Lenguajes de Programación</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
+  </kbd>
+  <kbd style="background-color: #f0f0f0; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">
+    <kbd style="background-color: transparent; border: none; padding: 0;">Sistemas Operativos</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" />
+    <img width="30px" src="https://www.kalilinux.org/images/kali-logo.svg" width="30px" alt="Kali Linux" />
+  </kbd>
+  <kbd style="background-color: #f0f0f0; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">
+    <kbd style="background-color: transparent; border: none; padding: 0;">Otros</kbd>
+    <br><br>
+    <span>Inglés</span>
+  </kbd>
+</p>
+
+<p></p>
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
