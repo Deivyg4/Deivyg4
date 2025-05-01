@@ -55,6 +55,6 @@
 
 <p></p>
 
-![](https://komarev.com/ghpvc/?username=Deivyg4&color=orangel)
+![](https://komarev.com/ghpvc/?username=Deivyg4&color=orange)
 
 <p></p>
