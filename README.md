@@ -56,11 +56,11 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" />
   </kbd>
-  <kbd style="background-color: #f0f0f0; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">
+<!--   <kbd style="background-color: #f0f0f0; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">
     <kbd style="background-color: transparent; border: none; padding: 0;">Otros</kbd>
     <br><br>
     <span>Inglés</span>
-  </kbd>
+  </kbd> -->
 </p>
 
 <p></p>
